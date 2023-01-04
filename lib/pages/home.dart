@@ -193,7 +193,7 @@ class MyHomePage extends StatelessWidget {
                             radius: 10,
                             backgroundColor: Colors.red,
                             child: Text(
-                              "20",
+                              "2",
                               style:
                                   TextStyle(fontSize: 15, color: Colors.white),
                             ),
